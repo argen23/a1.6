@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">a1.6</string>
+
+    <string name="dashboard">Dashboard</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ahj">Введите имя</string>
+    <string name="ahz">Введите фамилию</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+    <string name="dash">Dashboard</string>
+    <string name="profile">Profile</string>
+</resources>
